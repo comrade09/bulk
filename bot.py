@@ -255,7 +255,7 @@ async def linkloader(bot, update):
                 await pablo.edit_text(f"Total: {total}\nUploaded: {up}\nUploading: {rm}")
             except BadRequest:
                 pass
-            time.sleep(1)
+            asyncio.sleep(1)
         await pablo.delete()
         shutil.rmtree(dirs)
 
@@ -317,7 +317,7 @@ async def loader(bot, update):
                 await pablo.edit_text(f"Total: {total}\nUploaded: {up}\nUploading: {rm}")
             except BadRequest:
                 pass
-            time.sleep(1)
+            asyncio.sleep(1)
         await pablo.delete()
         shutil.rmtree(dirs)
 
