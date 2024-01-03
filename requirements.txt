@@ -1,6 +1,8 @@
-Pyrogram
-TgCrypto
-pyromod
+pyrogram
 yt-dlp
-hachoir
-python-dotenv
+requests
+TgCrypto
+moviepy
+ffmpeg
+ffmpeg-python
+Pyrebase4
