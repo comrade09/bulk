@@ -7,9 +7,9 @@
     "bulk",
     "downloader"
   ],
-  "success_url": "https://github.com/X-Gorn/BulkLoader",
+  "success_url": "https://github.com/comrade09/bulk",
   "website": "https://github.com/X-Gorn",
-  "repository": "https://github.com/X-Gorn/BulkLoader",
+  "repository": "https://github.com/comrade09/bulk",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
